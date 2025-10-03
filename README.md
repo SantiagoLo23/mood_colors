@@ -1,6 +1,7 @@
 # 🎨 Mood Colors
 
 An interactive application built with **Svelte** that lets you explore different moods through RGB colors.
+![Holaaa](https://i.pinimg.com/originals/bc/0c/f0/bc0cf09b5d3dad597d3bb92883e6b911.gif)
 
 ## ✨ Features
 
